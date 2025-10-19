@@ -1,0 +1,6 @@
+[submodule "Packages/Go.CRUD"]
+	path = Packages/Go.CRUD
+	url = https://github.com/eframework-io/Go.CRUD.git
+[submodule "Packages/Go.Utility"]
+	path = Packages/Go.Utility
+	url = https://github.com/eframework-io/Go.Utility.git
