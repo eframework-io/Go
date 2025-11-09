@@ -7,8 +7,8 @@
 
 ## 功能特性
 
-- [Go.CRUD](Packages/Go.CRUD/README.md) 集成了 Beego ORM 的扩展功能以及对 NoSQL 键值存储的支持，专为游戏类等对数据操作性能和延迟有严格要求的业务场景设计。
-- [Go.Utility](Packages/Go.Utility/README.md) 基于 Go 的通用基础类库，集成了首选项管理、多任务调度、日志输出、事件系统与文件处理等核心模块。
+- [EFramework CRUD for Go](https://github.com/eframework-io/Go.CRUD)：集成了 Beego ORM 的扩展功能以及对 NoSQL 键值存储的支持，专为游戏类等对数据操作性能和延迟有严格要求的业务场景设计。
+- [EFramework Utility for Go](https://github.com/eframework-io/Go.Utility)：基于 Go 的通用基础类库，集成了首选项管理、多任务调度、日志输出、事件系统与文件处理等核心模块。
 
 ## 常见问题
 
